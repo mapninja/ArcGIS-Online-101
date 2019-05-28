@@ -39,13 +39,13 @@ We'll be using Ron S. Filion's fantastic "Buried SHips" map, avaialble along wit
 
 ### Create a Tile Package
 
-### Upload the Tile Package
-
-### Publishing an Hosted Tile Service
-
 ## Preparing the editing application
 
 ### Login to ArcGIS Online
+
+### Upload the Tile Package
+
+### Publishing an Hosted Tile Service
 
 ### Create a Feature Layer for editing  
 
@@ -55,13 +55,13 @@ We'll be using Ron S. Filion's fantastic "Buried SHips" map, avaialble along wit
 
 ### Add Feature Layer to a new Web Map  
 
-### Add the Hosted Tile Service  
-
 ### Customize the Feature Layer  
 
 #### Creating Symbology
 #### The Editing Template
 #### Customizing Pop-ups
+
+### Add the Hosted Tile Service  
 
 ## Creating/editing the data
 
