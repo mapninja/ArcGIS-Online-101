@@ -50,12 +50,24 @@ Participants will learn to:
 
 ## Creating/editing the data
 
+### Creating an editing application from ArcGIS Online
+
+### Editing the Hosted Feature Layer from ArcGIS Pro
+
 ## Using the data
+### Geoprocessing in ArcGIS Pro
+### Exporting to other formats
 
 ## Sharing the data with others
+### Permissions Overview
+### Creating and sharing an Editing Group
+### Sharing Content to an Editing Group
+
 
 ## Updating the data in the field
-
+### Enable editing with Collector
+### Enable Offline Editing	
+### Taking your own tile package to the field (demo)
 
 
 
