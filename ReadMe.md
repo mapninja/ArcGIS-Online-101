@@ -24,13 +24,28 @@ Participants will learn to:
 
 ## Preparing Source Data
 
+We'll be using Ron S. Filion's fantastic "Buried SHips" map, avaialble along with some great historical research, here:  
+
+[http://www.sfgenealogy.org/sf/history/hgshp2.htm](http://www.sfgenealogy.org/sf/history/hgshp2.htm)
+
 ### Georeferencing a scanned map image
 
-### Creating a Tile Package
+#### Open ArcGIS Pro
+
+#### Add the Map  
+
+
+
+
+### Create a Tile Package
+
+### Upload the Tile Package
 
 ### Publishing an Hosted Tile Service
 
 ## Preparing the editing application
+
+### Login to ArcGIS Online
 
 ### Create a Feature Layer for editing  
 
