@@ -2,10 +2,28 @@
 
 ## Overview
 
+This workshop aims to accomplish two things: Introduce participants to basic vocabulary, concepts and techniques for working with spatial data in research and introduce the interface and tools in ArcGIS Online, a web-based alternative to desktop GIS software. This introductory session will focus upon the fundamental concepts and skills needed to begin using ArcGIS Online for the exploration and analysis of spatial data.  
+
+Topics will include:  
+
+* Spatial Data Models and Formats
+* Projections and Coordinate Systems
+* Basic Data Management
+* The ArcGIS Online User Interface
+* Simple Analysis using Visualization
+
+GIS Resources:
+Stanford Geospatial Center website - http://gis.stanford.edu/
+
+Stanford GIS Listserv - https://mailman.stanford.edu/mailman/listinfo/stanfordgis
 
 ## Setup
 
 Users should prepare for this workshop by ensuring that they have an updated browser (preferably Chrome or Firefox) downloading the data to their local hard drive.
+
+**Stanford Affiliates** should be able to access the Stanford University Library's enterprise supbscription to ArcGIS Online, using Stanford Single-SignOn with their SUNetID at: 
+
+[https://stanford.maps.arcgis.com](https://stanford.maps.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisonline&display=default&response_type=token&state=%7B"returnUrl"%3A"https%3A%2F%2Fstanford.maps.arcgis.com%2Fhome%2Findex.html"%2C"useLandingPage"%3Atrue%7D&expiration=20160&locale=en&redirect_uri=https%3A%2F%2Fstanford.maps.arcgis.com%2Fhome%2Faccountswitcher-callback.html&force_login=true&hideCancel=true&showSignupOption=true&signuptype=esri)
 
 ### Data
 
