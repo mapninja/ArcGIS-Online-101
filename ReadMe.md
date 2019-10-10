@@ -6,16 +6,20 @@ This workshop aims to accomplish two things: Introduce participants to basic voc
 
 Topics will include:  
 
-* Spatial Data Models and Formats
-* Projections and Coordinate Systems
-* Basic Data Management
+* How Webmaps work
 * The ArcGIS Online User Interface
-* Simple Analysis using Visualization
+* Uploading data to AGO
+* Using Web Map services in AGO
+* Simple Analysis using spatial allocation and joins
+* Using ArcGIS Onine to create data
+* Creating and sharing custom applications with ArcGIS Online
 
 GIS Resources:
-Stanford Geospatial Center website - http://gis.stanford.edu/
+Stanford's ArcGIS Online Organization Login - [https://stanford.maps.arcgis.com](https://stanford.maps.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisonline&display=default&response_type=token&state=%7B"returnUrl"%3A"https%3A%2F%2Fstanford.maps.arcgis.com%2Fhome%2Findex.html"%2C"useLandingPage"%3Atrue%7D&expiration=20160&locale=en&redirect_uri=https%3A%2F%2Fstanford.maps.arcgis.com%2Fhome%2Faccountswitcher-callback.html&force_login=true&hideCancel=true&showSignupOption=true&signuptype=esri)
 
-Stanford GIS Listserv - https://mailman.stanford.edu/mailman/listinfo/stanfordgis
+Stanford Geospatial Center website - [http://gis.stanford.edu/](http://gis.stanford.edu/)
+
+Stanford GIS Listserv - [https://mailman.stanford.edu/mailman/listinfo/stanfordgis](https://mailman.stanford.edu/mailman/listinfo/stanfordgis)
 
 ## Setup
 
@@ -27,19 +31,18 @@ Users should prepare for this workshop by ensuring that they have an updated bro
 
 ### Data
 
-The data package for the workshop can be downloaded from []()
+The data package for the workshop can be downloaded from [https://github.com/mapninja/ArcGIS-Online-101/archive/master.zip](https://github.com/mapninja/ArcGIS-Online-101/archive/master.zip)
 
 The project data folder contains the following datasets:
 
 * **deathAddresses.csv**  - this is a table latitude and longitude coordinates for addresses affected by the cholera outbreak. This table also contains the number of deaths at each address.  
-* **snow_map.png.tif** - this is a non-georeferenced image of the map from John Snow's original report on the cholera outbreak of 1854. 
 * **Study_Area.shp** - This file is simply a rectangular feature that describes our area of interest.  
 
 
 #### Additional Files
-There is an extra backup data folder that contains versions of files that we will create during the workshop. These files are provided in case any of the steps can't be completed due to software errors or other problems. Welcome to working with open source.  
-* **Snow-cholera-map-1_modified** - this is a geo-referenced image of the map from John Snow's original report on the cholera outbreak of 1854.  
-* **Water_Pumps.geojson** - this is a spatial data file containing the locations of all of the water pumps recorded in John Snow's original map of the cholera outbreak.  Who woo hoo 
+There is an extra backup data folder that contains versions of files that we will create during the workshop. These files are provided in case any of the steps can't be completed due to software errors or other problems. 
+
+* **Water_Pumps.geojson** - this is a spatial data file containing the locations of all of the water pumps recorded in John Snow's original map of the cholera outbreak.
 
 ## Getting started on a project  
 
