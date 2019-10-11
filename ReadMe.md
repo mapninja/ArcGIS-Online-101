@@ -77,7 +77,7 @@ The ArcGIS Online interface is made up of three basic components:
 
 ## The Map
 
-We're going to focus upon the basics of the Map in ArcGIS Online, for now. At the top of the ArcGIS Online page, you will see a Tab Bar that has items for Home, Gallery, Map, Scene, etc... We're going to focus upon the basics of the Map in ArcGIS Online, for now. 
+At the top of the ArcGIS Online page, you will see a Tab Bar that has items for Home, Gallery, Map, Scene, etc... We're going to focus upon the basics of the Map in ArcGIS Online, for now. 
 
 ![](./media/tabbar-drop-shadow.png)
 
