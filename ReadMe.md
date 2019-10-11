@@ -93,14 +93,18 @@ The first thing we will do is begin exploring some of the tools in ArcGIS Online
 
 #### Explore Built-in basemaps
 
-1. Click on the Basemap button at the top of the Table of Contents Panel, and select one of the provided basemap layers
-![](./media/selectbasemap-drop-shadow.png)
+1. Click on the Basemap button at the top of the Table of Contents Panel, and select one of the provided basemap layers  
+
+![](./media/selectbasemap-drop-shadow.png)  
+
 2. Change the basemap a few times to explore the available basemaps.
 
 #### Hack Stamen tiles as your basemap
 
-1. Click on the **Add** Button at the top of the Table of Contents and Select the "**Add Layer from Web**" item.
-![](./media/AddWebLayer-drop-shadow.png)
+1. Click on the **Add** Button at the top of the Table of Contents and Select the "**Add Layer from Web**" item.  
+
+![](./media/AddWebLayer-drop-shadow.png)  
+
 2. Use the following settings to fill the Add Layer from Web Dialog Box:
 
 | Setting | Value |
@@ -114,7 +118,8 @@ The first thing we will do is begin exploring some of the tools in ArcGIS Online
 The Stamen tiles service URL:   
 ```http://tile.stamen.com/toner-lite/{level}/{col}/{row}@2x.png```  
 
-![](./media/addtilelayer-drop-shadow.png)  
+![](./media/addtilelayer-drop-shadow.png)   
+
 3. Click **Add Layer** to change your basemap layer to **Stamen Toner Lite**.  
 
 
@@ -122,12 +127,15 @@ The Stamen tiles service URL:
 
 #### Add the John Snow Map
 
-1. Click on the **Add** Button at the top of the Table of Contents and Select the "**Search for Layers**" item.
-![](./media/AddWebLayer-drop-shadow.png)  
+1. Click on the **Add** Button at the top of the Table of Contents and Select the "**Search for Layers**" item.  
+
+![](./media/AddWebLayer-drop-shadow.png)   
+
 2. Change the drop-down at the top of the search panel to **ArcGIS Online**
 3. Type '**John Snow Map**' into the **Search for layers** box and hit **Enter**
 4. One of the first search returns should be "**John Snow's Map**" by **yalemaps**. Click the PLUS SIGN at the bottom right of it's item panel to add it to your map.  
-![](./media/searchmaps-drop-shadow.png)  
+  
+![](./media/searchmaps-drop-shadow.png)   
 
 A scanned and georeferenced image of John Snow's cholera map should be added should be added to your to your map layout, and you should be zoomed to it's extent.
 
@@ -146,7 +154,7 @@ A scanned and georeferenced image of John Snow's cholera map should be added sho
 
 4. Click **Save Map**
 
-![](./media/outbreakmap01-drop-shadow.png)
+![](./media/outbreakmap01-drop-shadow.png)  
 
 ### Uploading a shapefile
 
@@ -168,7 +176,7 @@ A scanned and georeferenced image of John Snow's cholera map should be added sho
 4. Click OK>OK>Done to commit the changes and get out of the Symbology dialog
 5. Save your Map
 
-![](./media/studyareasymb-drop-shadow.png)
+![](./media/studyareasymb-drop-shadow.png)  
 
 ### Create a data layer from an XY table
 
@@ -181,8 +189,10 @@ Often the data sets that you want to work with will not come as spatial data set
 5. Leave "Publish this file as a hosted layer..." option checked
 6. Under **"Locate features by:"**, select **Coordinates**
 7. Scroll through the Field Types table and set the **xcoord=Longitude** and **ycoord=Latitude**
-8. Click **Add Item**  
-![](./media/addcsv-drop-shadow.png)  
+8. Click **Add Item**   
+
+![](./media/addcsv-drop-shadow.png)   
+
 9. Wait for the **Details** page for the layer to be prepared, then click on **Open in Map Viewer** at the top right of the page.
 
 ### Layer symbology  
@@ -213,8 +223,10 @@ As you have seen, when you add a new layer to a map in ArcGIS Online, you are us
 4. Click on the "Point layer" text and change it to **Water Pumps**, click **Next**
 5. Pan and zoom to the London, UK area to set the extent and click **Next**
 6. Give the feature layer a Name, Tags, Summary and use the default folder.
-7. Click Done  
-![](./media/createlayer-drop-shadow.png)
+7. Click Done   
+
+![](./media/createlayer-drop-shadow.png)  
+
 8. Click the **Data** tab at the top right of the details page for the feature layer you just created
 9. Click on **Fields** at the top right
 10. Add a field called **"Label"** of Type:String
@@ -250,7 +262,9 @@ As you have seen, when you add a new layer to a map in ArcGIS Online, you are us
 1. Click on the **Share** tool on the Toolbar
 2. Click on **Create a Web App**
 3. Click on the **Edit** application's icon and then click the **Create Web App button**  
-![](./media/createapp-drop-shadow.png)
+ 
+![](./media/createapp-drop-shadow.png)  
+
 4. Fill any required information in the resulting **Create a New Web App** dialog and click **DONE**
 5. In the resulting page, click on the **Options** tab at the top of the Configure panel and check the option to **Display Edit Toolbar**
 6. Note other options and tabs in the Configure Panel
