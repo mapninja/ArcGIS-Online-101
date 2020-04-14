@@ -55,11 +55,11 @@ At Stanford, we use Single Sign-On to provide users with a familiar login experi
 To log into ArcGIS Online, using your Stanford credentials:  
 
 1. Go to [https://stanford.maps.arcgis.com](https://stanford.maps.arcgis.com) anad click on the "Sign In" link at the top right.  
-![](./media/sso01-drop-shadow.png)
-2. Click on the "Enterprise Login" button
-![](./media/sso02-drop-shadow.png)
-3. Follow the familiar Stanford Dual Authentication procedure to login.
-![](./media/stanfordAGO-drop-shadow.png)
+![](./media/sso01-drop-shadow.png)  
+2. Click on the "Enterprise Login" button  
+![](./media/sso02-drop-shadow.png)  
+3. Follow the familiar Stanford Dual Authentication procedure to login.  
+![](./media/stanfordAGO-drop-shadow.png)  
 
 
 ### Interface overview
